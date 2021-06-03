@@ -18,3 +18,9 @@ Data 612 Homework 2 - Spencer Flynn
 5.) Aftering finding the difference (which is a negative number) I added the two columns to get the date minus the max.
 6.) Converted the number of days difference into number of months using np.timedelta64(1, 'M')
 7.) Saved the dataset as a csv file using to_csv()
+
+# DATA-612-HW3
+Data 612 Homework 3 - Spencer Flynn
+
+1) Imported Libraries and Dataset
+2) Used season to generate correlation heatmap, facetgrid plot, and boxplots
