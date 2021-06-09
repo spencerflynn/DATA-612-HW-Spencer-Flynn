@@ -24,3 +24,12 @@ Data 612 Homework 3 - Spencer Flynn
 
 1) Imported Libraries and Dataset
 2) Used season to generate correlation heatmap, facetgrid plot, and boxplots
+
+
+# DATA-612-HW4
+Data 612 Homework 4 - Spencer Flynn
+
+1) Imported Library and Dataset
+2) Concatenated df1 and df2
+3) Counted number of nulls values
+4) Dropped rows containing null values
