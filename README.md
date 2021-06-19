@@ -33,3 +33,19 @@ Data 612 Homework 4 - Spencer Flynn
 2) Concatenated df1 and df2
 3) Counted number of nulls values
 4) Dropped rows containing null values
+
+# DATA-612-HW5
+Data 612 Homework 5 - Spencer Flynn
+1) Imported Library and Dataset
+2) Changed 'mass' column type from int64 to category using .astype()
+3) Changed 'fruit_name' column type from object to string using .astype()
+
+# DATA-612-HW6
+Data 612 Homework 6 - Spencer Flynn
+1) Imported Librarys and Dataset
+2) Created function that uses regex to validate that all 143,375 rows of the date column in my chosen dataset are entered in mm/dd/yyyy format and are real dates.
+3) Created dataframe from matrix using pd.DataFrame()
+4) Created function to calculate mean, sum, mode, median, and range of my created dataframe and returns results
+5) Applied function to dataframe ysing .apply()
+6) 
+7) 
