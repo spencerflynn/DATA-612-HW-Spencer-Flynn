@@ -46,6 +46,18 @@ Data 612 Homework 6 - Spencer Flynn
 2) Created function that uses regex to validate that all 143,375 rows of the date column in my chosen dataset are entered in mm/dd/yyyy format and are real dates.
 3) Created dataframe from matrix using pd.DataFrame()
 4) Created function to calculate mean, sum, mode, median, and range of my created dataframe and returns results
-5) Applied function to dataframe ysing .apply()
-6) 
-7) 
+5) Applied function to dataframe using .apply()
+
+# DATA-612-HW7
+Data 612 Homework 7 - Spencer Flynn
+
+MY chosen dataset was the State Drug Utilization Data from 2010.
+
+The metrics I calculated in my summarize_data() function were:
+  - average number of prescriptions
+  - average total amount reimbursed
+  - max total amount reimbursed
+  - percentage of number of prescriptions out of the whole dataset
+
+I grouped my data first by Quarter and then by State and applied my function in order to get metrics for each state in each quarter seperately.
+In order to view my results better I then sorted the data by descending percent of prescriptions using .sort_values(). In order to keep the states grouped into each quarter I also sorted them by Quarter.
